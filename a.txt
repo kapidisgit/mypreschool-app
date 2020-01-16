@@ -1,3 +1,5 @@
 # File A
 ## The second file
 asasd
+text1
+text2
